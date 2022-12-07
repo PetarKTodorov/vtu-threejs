@@ -8,4 +8,4 @@ npm run start
 
 ## Preview
 
-https://github.com/PetarKTodorov/vtu-threejs/blob/main/more/screen-capture-video.mp4 
+https://github.com/PetarKTodorov/vtu-threejs/blob/main/more/screen-capture-video.mp4
